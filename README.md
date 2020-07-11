@@ -1,7 +1,8 @@
-![Image](https://franciscojava.files.wordpress.com/2016/11/n-fatorial1.png?w=620)
+# :tada: Fatorial em Java :tada:
 
-## Desenvolvido por [Francisco Chaves](http://www.franciscochaves.com.br)
+Obtenha o fatorial em Java de forma recursiva e não recursiva.
 
-# [Fatorial em Java](https://franciscojava.wordpress.com/2017/01/04/fatorial-em-java/)
+![Fatorial](fatorial.png)
 
-Para conhecer mais sobre programação e tecnologia acesse: [http://www.franciscochaves.com.br](http://www.franciscochaves.com.br)
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
